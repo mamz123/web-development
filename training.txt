@@ -1,0 +1,4 @@
+WPU resolusi
+-saya ingin konsisten membuat project 2x sebulan
+-membuat platform pengelola video
+-membuat forum diskusi
